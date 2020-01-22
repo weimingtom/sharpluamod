@@ -1,0 +1,1 @@
+﻿typedef int(__stdcall *csharp_callback)(int argc, struct var *argv, struct string_pusher *sp);
